@@ -1,0 +1,328 @@
+{
+  "business": {
+    "name": "Jerry's Painting & Wallpaper",
+    "shortName": "Jerry's Painting",
+    "tagline": "Dallas's Trusted Painters for Over a Decade",
+    "niche": "Painter",
+    "phone": "(972) 639-5091",
+    "address": "6060 Village Bend Dr #1703, Dallas, TX 75206",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 7am-6pm, Sat 8am-4pm",
+    "ctaLabel": "Get a Free Quote",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Jerry's Painting & Wallpaper | Expert Painters in Dallas, TX",
+    "description": "Jerry's Painting & Wallpaper offers premium interior and exterior painting services in Dallas. Free quotes, 5-star quality, and a decade of local experience."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas's Premier Painting Company",
+      "headline": "Transform Your Home with Expert Craftsmanship",
+      "subheadline": "From interior accents to full exterior makeovers, we deliver flawless finishes that last.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "See Our Work"
+    },
+    "stats": [
+      {
+        "value": "10+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "500+",
+        "label": "Homes Painted"
+      },
+      {
+        "value": "5.0",
+        "label": "Average Rating"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Interior Painting",
+        "title": "Breathe New Life Into Every Room",
+        "body": "Our meticulous interior painting service transforms your living spaces with clean lines, rich colors, and a smooth finish that stands the test of time.",
+        "bullets": [
+          "Premium paints for durability and easy cleaning",
+          "Detailed prep including patching, sanding, and priming",
+          "Minimal disruption – we protect your furniture and floors"
+        ],
+        "reverse": false,
+        "cardLabel": "Interior",
+        "cardTitle": "Room Transformation",
+        "cardBody": "From bedrooms to kitchens, we make your vision a reality."
+      },
+      {
+        "eyebrow": "Exterior Painting",
+        "title": "Boost Curb Appeal and Protect Your Home",
+        "body": "Our exterior painting service not only beautifies your home but also shields it from Dallas weather with high-quality, weather-resistant coatings.",
+        "bullets": [
+          "Thorough power washing and surface preparation",
+          "Caulking and sealing to prevent moisture damage",
+          "Long-lasting finishes that resist fading and peeling"
+        ],
+        "reverse": true,
+        "cardLabel": "Exterior",
+        "cardTitle": "Complete Makeover",
+        "cardBody": "Increase your home's value with a stunning exterior."
+      }
+    ],
+    "whyTitle": "Why Choose Jerry's Painting?",
+    "whyChooseUs": [
+      {
+        "title": "10+ Years of Local Expertise",
+        "description": "We know Dallas homes inside and out, from historic neighborhoods to new builds."
+      },
+      {
+        "title": "Premium Materials Only",
+        "description": "We use top-tier paints and supplies for a finish that lasts years, not months."
+      },
+      {
+        "title": "Clean & Respectful Crew",
+        "description": "Our team treats your home with care, leaving every room spotless after the job."
+      },
+      {
+        "title": "100% Satisfaction Guarantee",
+        "description": "If you're not happy, we make it right – no questions asked."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Jerry's team painted our entire first floor and it looks amazing. They were punctual, professional, and the quality is outstanding.",
+        "author": "Sarah M.",
+        "role": "Homeowner, Lakewood"
+      },
+      {
+        "quote": "We hired Jerry's for our exterior paint job. They prepped everything perfectly and the finish is beautiful. Highly recommend!",
+        "author": "Tom L.",
+        "role": "Homeowner, Highland Park"
+      },
+      {
+        "quote": "The crew was friendly and efficient. They transformed our kitchen cabinets with a flawless white finish. Couldn't be happier.",
+        "author": "Jessica P.",
+        "role": "Homeowner, Uptown"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Transform Your Home?",
+      "subheadline": "Schedule your free, no-obligation consultation today.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "Call (972) 639-5091"
+    }
+  },
+  "servicesPage": {
+    "intro": "From a single accent wall to a whole-home transformation, Jerry's Painting & Wallpaper delivers premium results for every project in Dallas."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Interior Painting",
+      "shortDescription": "Flawless interior painting for any room in your home.",
+      "longDescription": "Our interior painting service covers every detail: from color consultation to final touch-ups. We use low-VOC paints for a safe, beautiful finish that lasts.",
+      "benefits": [
+        "Transform your living space with fresh colors",
+        "Increase home value and appeal",
+        "Professional prep ensures long-lasting results",
+        "Clean, odor-free process with low-VOC paints"
+      ],
+      "process": [
+        {
+          "title": "Consultation",
+          "description": "We discuss your vision, measure the space, and recommend colors and finishes."
+        },
+        {
+          "title": "Preparation",
+          "description": "We move furniture, patch holes, sand surfaces, and apply primer for a smooth base."
+        },
+        {
+          "title": "Painting & Cleanup",
+          "description": "We apply two coats of premium paint with precise edging, then restore your room to perfection."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does interior painting take?",
+          "answer": "A typical room takes 1-2 days, depending on size and preparation needed."
+        },
+        {
+          "question": "Do I need to be home during painting?",
+          "answer": "Not necessarily. We can work around your schedule, but we recommend being available for color approval."
+        }
+      ],
+      "slug": "interior-painting"
+    },
+    {
+      "icon": "02",
+      "title": "Exterior Painting",
+      "shortDescription": "Durable, beautiful exterior coatings that protect and impress.",
+      "longDescription": "Our exterior painting service revitalizes your home's curb appeal while providing a protective barrier against Dallas sun, rain, and wind.",
+      "benefits": [
+        "Enhance curb appeal and property value",
+        "Protect against weather and moisture damage",
+        "Long-lasting, fade-resistant finishes",
+        "Comprehensive surface prep for maximum adhesion"
+      ],
+      "process": [
+        {
+          "title": "Inspection & Power Wash",
+          "description": "We inspect surfaces for damage and power wash to remove dirt and old paint."
+        },
+        {
+          "title": "Repairs & Caulking",
+          "description": "We repair wood rot, replace damaged siding, and caulk gaps to seal out moisture."
+        },
+        {
+          "title": "Primer & Paint",
+          "description": "We apply high-quality primer and two coats of exterior paint for a durable, beautiful finish."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What type of paint do you use for exteriors?",
+          "answer": "We use 100% acrylic latex paints that are UV-resistant and flexible to prevent cracking."
+        },
+        {
+          "question": "How long will my exterior paint job last?",
+          "answer": "With proper preparation and quality paint, expect 5-10 years before needing a refresh."
+        }
+      ],
+      "slug": "exterior-painting"
+    },
+    {
+      "icon": "03",
+      "title": "Wallpaper Installation & Removal",
+      "shortDescription": "Expert wallpaper services for any style.",
+      "longDescription": "Whether you want bold patterns or subtle textures, our wallpaper experts ensure perfect alignment and bubble-free application. We also handle removal with care.",
+      "benefits": [
+        "Precision installation with seamless seams",
+        "Wide selection of patterns and textures",
+        "Professional removal without damaging walls",
+        "Matching patterns and aligning repeats flawlessly"
+      ],
+      "process": [
+        {
+          "title": "Consultation & Selection",
+          "description": "We help you choose the perfect wallpaper and measure the space for accurate ordering."
+        },
+        {
+          "title": "Surface Preparation",
+          "description": "We smooth walls, apply sizing, and ensure a clean, dry surface for adhesion."
+        },
+        {
+          "title": "Installation & Finishing",
+          "description": "We hang wallpaper with precision, trim edges, and inspect for any imperfections."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you remove old wallpaper?",
+          "answer": "Yes, we safely remove old wallpaper and prepare the wall for new paper or paint."
+        },
+        {
+          "question": "How long does wallpaper installation take?",
+          "answer": "A standard room takes 1-3 days depending on complexity and pattern matching."
+        }
+      ],
+      "slug": "wallpaper-installation-removal"
+    },
+    {
+      "icon": "04",
+      "title": "Cabinet Painting & Refinishing",
+      "shortDescription": "Give your cabinets a brand-new look without replacement.",
+      "longDescription": "Our cabinet painting service transforms your kitchen or bathroom cabinets with a durable, factory-like finish. We use specialized primers and paints for high-traffic areas.",
+      "benefits": [
+        "Cost-effective alternative to replacement",
+        "Custom color matching to your decor",
+        "Durable, scratch-resistant finish",
+        "Quick turnaround – most kitchens done in 3-5 days"
+      ],
+      "process": [
+        {
+          "title": "Removal & Cleaning",
+          "description": "We remove doors and hardware, then clean and degrease all surfaces."
+        },
+        {
+          "title": "Sanding & Priming",
+          "description": "We sand to promote adhesion and apply a high-bond primer to prevent bleed-through."
+        },
+        {
+          "title": "Spray Painting & Reassembly",
+          "description": "We spray multiple thin coats for a smooth, even finish, then reinstall hardware and doors."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you paint the inside of cabinets?",
+          "answer": "Yes, we can paint interiors for an additional fee, or leave them as-is."
+        },
+        {
+          "question": "How durable is the paint on cabinets?",
+          "answer": "We use a catalyzed enamel that hardens to a tough, washable surface resistant to chips and stains."
+        }
+      ],
+      "slug": "cabinet-painting-refinishing"
+    }
+  ],
+  "about": {
+    "headline": "Bringing Color and Quality to Dallas Homes",
+    "mission": "Our mission is simple: deliver exceptional painting services with integrity, craftsmanship, and a personal touch.",
+    "story": [
+      "Jerry's Painting & Wallpaper started over a decade ago with a single goal: to provide Dallas homeowners with painting services that exceed expectations. Founded by Jerry himself, a lifelong painter with an eye for detail, the company grew through word-of-mouth and a commitment to quality. From small condos in Uptown to sprawling estates in Highland Park, we've painted it all.",
+      "Today, we're proud to be one of Dallas's most trusted painting companies. Our team undergoes continuous training, uses only the best materials, and treats every home like our own. We believe that a fresh coat of paint can transform not just a house, but the way you feel about your home. Let us show you the Jerry's difference."
+    ],
+    "highlight": {
+      "stat": "500+",
+      "label": "Homes Transformed"
+    },
+    "coreValues": [
+      {
+        "title": "Craftsmanship",
+        "description": "We take pride in every brushstroke, ensuring flawless results every time."
+      },
+      {
+        "title": "Reliability",
+        "description": "We show up on time, communicate clearly, and finish projects as promised."
+      },
+      {
+        "title": "Respect",
+        "description": "We treat your home and your time with the utmost respect, leaving it cleaner than we found it."
+      },
+      {
+        "title": "Integrity",
+        "description": "We provide honest assessments, fair pricing, and stand behind our work."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Let's Start Your Project",
+    "subheadline": "Reach out for a free, no-obligation quote. We'll discuss your vision and provide a detailed estimate.",
+    "primaryCta": "Get a Free Quote",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Highland Park",
+      "University Park",
+      "Lakewood",
+      "Uptown",
+      "Oak Lawn",
+      "Park Cities",
+      "Preston Hollow"
+    ]
+  },
+  "social_proof": {
+    "rating": 5.0,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Painter",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:9726395091",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
